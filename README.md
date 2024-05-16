@@ -9,5 +9,5 @@ To be updated
 
 ## For specific repository
 
--[x] (Not tested) [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [x] (Not tested) [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
